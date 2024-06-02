@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Messay Azage</h1>
-<h3 align="center">A student of Data Science at BloomTech</h3>
+<h3 align="center">A student of Data Science at BloomTech. Love puzzles and problem solving, so Data Science is the perfect place to combine the two.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazage20" alt="mazage20" /></a> </p>
 
